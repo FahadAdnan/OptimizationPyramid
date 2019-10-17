@@ -1,0 +1,20 @@
+C:\Users\LENOVO\Desktop\C code\OptimizationMathGrade12Code\OptimizationMathGrade12Code\bin\Debug\OptimizationMathGrade12Code.exe.config
+C:\Users\LENOVO\Desktop\C code\OptimizationMathGrade12Code\OptimizationMathGrade12Code\bin\Debug\OptimizationMathGrade12Code.exe
+C:\Users\LENOVO\Desktop\C code\OptimizationMathGrade12Code\OptimizationMathGrade12Code\bin\Debug\OptimizationMathGrade12Code.pdb
+C:\Users\LENOVO\Desktop\C code\OptimizationMathGrade12Code\OptimizationMathGrade12Code\obj\Debug\OptimizationMathGrade12Code.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\C code\OptimizationMathGrade12Code\OptimizationMathGrade12Code\obj\Debug\OptimizationMathGrade12Code.Form1.resources
+C:\Users\LENOVO\Desktop\C code\OptimizationMathGrade12Code\OptimizationMathGrade12Code\obj\Debug\OptimizationMathGrade12Code.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\C code\OptimizationMathGrade12Code\OptimizationMathGrade12Code\obj\Debug\OptimizationMathGrade12Code.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\C code\OptimizationMathGrade12Code\OptimizationMathGrade12Code\obj\Debug\OptimizationMathGrade12Code.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\C code\OptimizationMathGrade12Code\OptimizationMathGrade12Code\obj\Debug\OptimizationMathGrade12Code.exe
+C:\Users\LENOVO\Desktop\C code\OptimizationMathGrade12Code\OptimizationMathGrade12Code\obj\Debug\OptimizationMathGrade12Code.pdb
+C:\Users\LENOVO\Desktop\OptimizationMathGrade12Code\OptimizationMathGrade12Code\bin\Debug\OptimizationMathGrade12Code.exe.config
+C:\Users\LENOVO\Desktop\OptimizationMathGrade12Code\OptimizationMathGrade12Code\bin\Debug\OptimizationMathGrade12Code.exe
+C:\Users\LENOVO\Desktop\OptimizationMathGrade12Code\OptimizationMathGrade12Code\bin\Debug\OptimizationMathGrade12Code.pdb
+C:\Users\LENOVO\Desktop\OptimizationMathGrade12Code\OptimizationMathGrade12Code\obj\Debug\OptimizationMathGrade12Code.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\OptimizationMathGrade12Code\OptimizationMathGrade12Code\obj\Debug\OptimizationMathGrade12Code.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\OptimizationMathGrade12Code\OptimizationMathGrade12Code\obj\Debug\OptimizationMathGrade12Code.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\OptimizationMathGrade12Code\OptimizationMathGrade12Code\obj\Debug\OptimizationMathGrade12Code.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\OptimizationMathGrade12Code\OptimizationMathGrade12Code\obj\Debug\OptimizationMathGrade12Code.exe
+C:\Users\LENOVO\Desktop\OptimizationMathGrade12Code\OptimizationMathGrade12Code\obj\Debug\OptimizationMathGrade12Code.pdb
+C:\Users\LENOVO\Desktop\OptimizationMathGrade12Code\OptimizationMathGrade12Code\obj\Debug\OptimizationMathGrade12Code.OptimizationForm.resources
