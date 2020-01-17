@@ -5,4 +5,6 @@ Shows optimization for the volume of a square based pyramid with the constraint 
 Created to showcase my knowledge in derivatives and to teach help aid younger students in learning the concepts of derivatives applications in real life.
 
 
+
+
 ![alt text](https://github.com/FahadAdnan/OptimizationPyramid/blob/master/OptimizationMathCode/OptimizationAppImage.png)
